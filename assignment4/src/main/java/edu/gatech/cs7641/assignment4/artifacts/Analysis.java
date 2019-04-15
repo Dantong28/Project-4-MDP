@@ -20,7 +20,6 @@ public class Analysis {
 				result.reward += t;
 			}
 		});
-
 		this.results.put(episode, result);
 	}
 	
